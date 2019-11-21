@@ -48,4 +48,4 @@ Formulário
 - Leve
 - Bonito
 - Fluxo natural
-- 
+- Responsivo (computador, tablet e smartphone)
